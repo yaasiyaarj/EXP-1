@@ -40,35 +40,42 @@ b.  KCL:
 7.   Take readings for different values of input voltage and tabulate them. 
 CIRCUIT DIAGRAM:
 
-CIRCUIT DIAGRAM:
-
 
 a.   KVL:
  
+<img width="925" height="708" alt="{F1AA4DA8-18A1-46C0-9BFC-7A01DFA9ABD4}" src="https://github.com/user-attachments/assets/5a2e1a34-00b4-4c45-8afe-36e1a568223b" />
 
+CIRCUIT DIAGRAM:
 
 b.  KCL:
- 
+ <img width="1069" height="688" alt="{944A6B99-6234-4AA3-95D8-B617CFE44D64}" src="https://github.com/user-attachments/assets/fe112e39-feec-4643-9705-3bb9bcf792d5" />
+
 
 Calculation:
 
 a.   KVL:
  
+<img width="857" height="1280" alt="WhatsApp Image 2026-10-10 at 11 32 50 PM" src="https://github.com/user-attachments/assets/a5b48f9e-fde7-41aa-9e94-6a372b604949" />
+<img width="971" height="1280" alt="WhatsApp Image 2026-10-10 at 11 33 04 PM" src="https://github.com/user-attachments/assets/6264d603-4917-4b19-8fde-bae42b9040bd" />
 
 
 b.  KCL:
 
+<img width="741" height="1280" alt="WhatsApp Image 2026-10-10 at 11 45 08 PM" src="https://github.com/user-attachments/assets/709ebc0c-2e3d-4d60-b999-bf1a457439c7" />
 
+<img width="778" height="1280" alt="WhatsApp Image 2026-10-10 at 11 45 25 PM" src="https://github.com/user-attachments/assets/7b5347e5-4d10-4dd3-b9ad-5e23512e8283" />
 
 
 Tabulation:
 
 a.   KVL:
- 
+ <img width="1280" height="615" alt="WhatsApp Image 2026-10-10 at 11 33 22 PM" src="https://github.com/user-attachments/assets/cd1bb034-fc4c-4c71-bf0c-a2f2cebbaff1" />
+
 
 
 b.  KCL:
 
+<img width="1280" height="428" alt="WhatsApp Image 2026-10-10 at 11 45 43 PM" src="https://github.com/user-attachments/assets/29f09947-99c4-4151-a377-203cb73dd08f" />
 
 
 RESULT:
