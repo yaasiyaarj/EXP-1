@@ -42,41 +42,36 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
-<img width="925" height="708" alt="{F1AA4DA8-18A1-46C0-9BFC-7A01DFA9ABD4}" src="https://github.com/user-attachments/assets/5a2e1a34-00b4-4c45-8afe-36e1a568223b" />
+ <img width="626" height="401" alt="{F1996F28-7F82-4351-9925-A42D8192AE36}" src="https://github.com/user-attachments/assets/5704e19e-cdf9-4e11-94db-6e11d1d99639" />
+
 
 CIRCUIT DIAGRAM:
 
 b.  KCL:
- <img width="1069" height="688" alt="{944A6B99-6234-4AA3-95D8-B617CFE44D64}" src="https://github.com/user-attachments/assets/fe112e39-feec-4643-9705-3bb9bcf792d5" />
+ 
+<img width="628" height="426" alt="{DDC57E71-C806-4C28-8BED-856DA759107A}" src="https://github.com/user-attachments/assets/76ae500a-7102-48ef-8372-e91365054554" />
 
 
 Calculation:
 
 a.   KVL:
+<img width="914" height="1358" alt="image" src="https://github.com/user-attachments/assets/81b2585b-7a23-4d31-94f2-191eebf125e7" />
  
-<img width="857" height="1280" alt="WhatsApp Image 2026-10-10 at 11 32 50 PM" src="https://github.com/user-attachments/assets/a5b48f9e-fde7-41aa-9e94-6a372b604949" />
-<img width="971" height="1280" alt="WhatsApp Image 2026-10-10 at 11 33 04 PM" src="https://github.com/user-attachments/assets/6264d603-4917-4b19-8fde-bae42b9040bd" />
-
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/238fffdc-e3c1-47ba-8f20-2d6602e04c4f" />
 
 b.  KCL:
+<img width="1162" height="1600" alt="image" src="https://github.com/user-attachments/assets/49f8a06c-7ab1-4d42-9776-aeba23d39a90" />
 
-<img width="741" height="1280" alt="WhatsApp Image 2026-10-10 at 11 45 08 PM" src="https://github.com/user-attachments/assets/709ebc0c-2e3d-4d60-b999-bf1a457439c7" />
-
-<img width="778" height="1280" alt="WhatsApp Image 2026-10-10 at 11 45 25 PM" src="https://github.com/user-attachments/assets/7b5347e5-4d10-4dd3-b9ad-5e23512e8283" />
-
+<img width="911" height="1517" alt="image" src="https://github.com/user-attachments/assets/e2ba88f4-a299-4ff7-ad5a-6794abc0b73b" />
 
 Tabulation:
 
 a.   KVL:
- <img width="1280" height="615" alt="WhatsApp Image 2026-10-10 at 11 33 22 PM" src="https://github.com/user-attachments/assets/cd1bb034-fc4c-4c71-bf0c-a2f2cebbaff1" />
-
+ <img width="1600" height="583" alt="image" src="https://github.com/user-attachments/assets/c13754e0-38e9-4d54-85d6-b2f28fd5feb0" />
 
 
 b.  KCL:
-
-<img width="1280" height="428" alt="WhatsApp Image 2026-10-10 at 11 45 43 PM" src="https://github.com/user-attachments/assets/29f09947-99c4-4151-a377-203cb73dd08f" />
-
+<img width="1600" height="618" alt="image" src="https://github.com/user-attachments/assets/c3b4ed10-a9d2-4389-8ba2-f45a4e5c9e71" />
 
 RESULT:
 
